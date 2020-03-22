@@ -127,7 +127,7 @@
        <rect>
         <x>80</x>
         <y>20</y>
-        <width>381</width>
+        <width>311</width>
         <height>22</height>
        </rect>
       </property>
@@ -204,6 +204,19 @@
       </property>
       <property name="text">
        <string>Quality:</string>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="pushButton_5">
+      <property name="geometry">
+       <rect>
+        <x>400</x>
+        <y>20</y>
+        <width>61</width>
+        <height>28</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>search</string>
       </property>
      </widget>
     </widget>
